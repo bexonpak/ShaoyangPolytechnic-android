@@ -1,9 +1,7 @@
 {
-    "version": {
-        "versionCode": 2,
-        "versionName": "1.0.1-alpha",
-        "iconURL": "https://www.coolapk.com/static/img/icon.png",
-        "title": "更新啦！V2版本冷艳呈上！",
-        "detail": "新版本上添加了阳光服务中心\n快到各大应用商店更新吧~"
-    }
+    "versionCode": 2,
+    "versionName": "1.0.1-alpha",
+    "iconURL": "https://www.coolapk.com/static/img/icon.png",
+    "title": "更新啦！V2版本冷艳呈上！",
+    "detail": "新版本上添加了阳光服务中心\n快到各大应用商店更新吧~"
 }
