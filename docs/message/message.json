@@ -1,0 +1,23 @@
+{
+    "message": {
+        "type": 0,
+        "title": "有新消息啦~",
+        "content": "",
+        "image": "",
+        "time": "2018-2-8 23:29:59"
+    },
+    "message": {
+        "type": 1,
+        "title": "为什么 Google Play 提示「今日头条」是有害应用并建议卸载？",
+        "content": "因為耗电量大，频繁唤醒，无视实际过分申请权限:-)\n总之比本App流氓。",
+        "image": "https://bexonpak.github.io/ShaoyangPolytechnic-android/img/syzy.jpg",
+        "time": "2018-2-8 23:29:59"
+    },
+    "message": {
+        "type": 2,
+        "title": "为什么 Google Play 提示「今日头条」是有害应用并建议卸载？",
+        "content": "因為耗电量大，频繁唤醒，无视实际过分申请权限:-)\n总之比本App流氓。",
+        "image": "",
+        "time": "2018-2-8 23:29:59"
+    }
+}
